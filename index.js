@@ -8,3 +8,7 @@ function theBeatlesPlay (musicians, instruments) {
   }
   return res;
 }
+
+function johnLennonFacts (facts) {
+  return facts
+}
